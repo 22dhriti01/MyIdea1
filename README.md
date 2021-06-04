@@ -1,6 +1,6 @@
 ✨Elucidation of My Scheme:
 
-�Project Name –** CHRONICLE**
+Project Name –** CHRONICLE**
 
 ## Function 
 This app *CHRONICLE* will contain the database of all the entities registered in the university/school. Basically, this application will be accessed only by the higher authorities of the organization, who will be dealing with the information of all the students and faculties related. It will keep a record of all information that is important and need to be noted! 
